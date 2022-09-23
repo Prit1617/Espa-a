@@ -1,0 +1,107 @@
+#EXTM3U
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",Pickx+ Sports 6 FR HD
+http://red.ipfox.org:8080/osama2022/osama2023/37554?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",Pickx+ Sports 9 NL HD
+http://red.ipfox.org:8080/osama2022/osama2023/37547?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",Plug RTL HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/135944?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/s0CZjmi.png" group-title="Music",Q-Music
+https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",Q2
+http://cineapp.org:8000/Fernando/Fernando/7146?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",RTL TVI
+http://cineapp.org:8000/Fernando/Fernando/508?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/RTLTVI.be.png" group-title="Undefined",RTL TVI
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/74919?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",RTL TVI
+http://comag.rip:8000/00159101576765/61790209632447/28145?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",RTL TVI HD
+http://cineapp.org:8000/Fernando/Fernando/8105?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",RTL TVI HD [FR]
+http://red.ipfox.org:8080/osama2022/osama2023/37584?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/RMjFeGE.png" group-title="Music",Radio PROS
+http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/RMjFeGE.png" group-title="Music",Radio PROS (720p) [Not 24/7]
+https://558bd16067b67.streamlock.net/radiopros/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",TIPIK HD [FR]
+http://red.ipfox.org:8080/osama2022/osama2023/37575?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",TV LUX HD
+http://comag.rip:8000/00159101576765/61790209632447/89181?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.ibb.co/KGRYRmt/download.jpg" group-title="Local",TVL
+http://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.ibb.co/KGRYRmt/download.jpg" group-title="Local",TVL
+https://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/TVLimburg.be.png" group-title="Undefined",TVL
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/73444?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/TVO.ca.png" group-title="Undefined",TVO FHD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/73445?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",Tele Bruxellers
+http://comag.rip:8000/00159101576765/61790209632447/77619?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",VIER
+http://comag.rip:8000/00159101576765/61790209632447/28144?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",VRT Radio 1
+https://live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",VRT Radio 2
+https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Music",VRT Radio MNM Music and More
+https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",VRT Radio StuBru
+https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",VTM
+http://cineapp.org:8000/Fernando/Fernando/3296?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",VTM
+http://comag.rip:8000/00159101576765/61790209632447/28136?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/Vtm.be.png" group-title="Undefined",VTM 2 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/135948?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/Vtm.be.png" group-title="Undefined",VTM 3
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/135949?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="http://saw.fersat.cc/logo/BELGIUM%20HD/Be-_VTM_3-.png" group-title="Undefined",VTM 3
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/49039?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",VTM 4
+http://cineapp.org:8000/Fernando/Fernando/76242?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/Vtm.be.png" group-title="Undefined",VTM 4
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/135950?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",VTM FHD [NL]
+http://red.ipfox.org:8080/osama2022/osama2023/37589?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",VTM Gold HD {NL]
+http://red.ipfox.org:8080/osama2022/osama2023/37586?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",VTM KAZOOM
+http://comag.rip:8000/00159101576765/61790209632447/28143?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="http://saw.fersat.cc/logo/BELGIUM%20HD/Be-_VTM_KIDS-.png" group-title="Undefined",VTM KIDS
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/49041?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",VTM KZOOM
+http://cineapp.org:8000/Fernando/Fernando/7305?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/Vtm.be.png" group-title="Undefined",VTM Kids
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/135951?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",VTM Kids / Kanal Z
+http://comag.rip:8000/00159101576765/61790209632447/77626?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",VTM Kids HD [NL]
+http://red.ipfox.org:8080/osama2022/osama2023/37585?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",VTM Kids Jr
+http://comag.rip:8000/00159101576765/61790209632447/77627?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",VTM4 HD {NL]
+http://red.ipfox.org:8080/osama2022/osama2023/37587?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",Vier HD
+http://comag.rip:8000/00159101576765/61790209632447/77620?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="http://saw.fersat.cc/logo/BELGIUM%20HD/Be-_Vitaya_HD-.png" group-title="Undefined",Vitaya HD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/49044?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="http://super-iptv.net:2052/images/0cf62a7c4c72bdca153765d5bbc483e0.png" group-title="Sport",Voo Sport 1
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/49085?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",Voo Sport 1 FHD
+http://comag.rip:8000/00159101576765/61790209632447/77623?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",Voo Sport 2
+http://comag.rip:8000/00159101576765/61790209632447/77624?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="http://saw.fersat.cc/logo/BELGIUM%20HD/Be-_Voo_Sport_World_1.png" group-title="Sport",Voo Sport World 1
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/49087?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/VOOSport1fr.be.png" group-title="Sport",Voo Sport World 2 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/135973?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/VOOSport1fr.be.png" group-title="Sport",Voo Sport World 3 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/135974?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",Vtm HD
+http://comag.rip:8000/00159101576765/61790209632447/28135?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="Undefined",XITE BE
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",Xite Belgie HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/135946?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",njam! HD [NL]
+http://red.ipfox.org:8080/osama2022/osama2023/37603?checkedby:iptvcat.com
